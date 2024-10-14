@@ -1,1 +1,1 @@
-# Ecommerce-Sales-Dashboard
+Developed an interactive Power BI dashboard for a US-based e-commerce company, using DAX queries, data modeling, and advanced features to enhance strategic decision-making with dynamic visualizations and insightful reports for better sales trend identification.
